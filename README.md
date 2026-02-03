@@ -126,6 +126,3 @@ Designed for macOS/Apple Silicon:
 - Fixed texture array size (32) instead of bindless
 - VMA with Vulkan 1.2 features
 
-## License
-
-MIT License
