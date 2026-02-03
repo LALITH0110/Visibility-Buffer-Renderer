@@ -1,0 +1,3 @@
+/Users/lalith/Documents/vulken/build/CMakeFiles/vulkan_app.dir
+/Users/lalith/Documents/vulken/build/CMakeFiles/edit_cache.dir
+/Users/lalith/Documents/vulken/build/CMakeFiles/rebuild_cache.dir
