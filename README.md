@@ -4,7 +4,7 @@ A modern Vulkan 1.2 renderer demonstrating visibility buffer techniques for effi
 
 <p>
   <img width="404" height="430" alt="Screenshot 2026-02-04 at 2 58 51 AM" src="https://github.com/user-attachments/assets/77396cbc-cae7-4915-a1e5-a28f80214b78" /> 
-  <img width="395" height="400" alt="Screenshot 2026-02-04 at 2 59 06 AM" src="https://github.com/user-attachments/assets/9e6f4d74-49e7-4e63-8551-5fef78621f43" />
+  <img width="391" height="400" alt="Screenshot 2026-02-04 at 2 59 06 AM" src="https://github.com/user-attachments/assets/9e6f4d74-49e7-4e63-8551-5fef78621f43" />
 </p>
 
 
